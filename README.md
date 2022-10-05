@@ -1,6 +1,6 @@
 # ChallengesAreEvil
 
-The app bring back the functionality to remove your challenge tokens from profile banner.
+Remove your challenge tokens from profile banner with 1-click-button solution.
 
 ## App preview:
 

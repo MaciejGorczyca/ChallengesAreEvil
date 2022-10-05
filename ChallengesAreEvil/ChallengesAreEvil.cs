@@ -8,9 +8,6 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-// move into diff file
-// https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
-
 namespace ChallengesAreEvil
 {
     public partial class ChallengesAreEvilForm : Form
