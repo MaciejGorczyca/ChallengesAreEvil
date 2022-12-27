@@ -6,6 +6,10 @@ Remove your challenge tokens from profile banner with 1-click-button solution.
 
 ![Alt text](app.png)
 
+## Download
+
+[Grab latest release here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest)
+
 ## Description
 
 ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil.
