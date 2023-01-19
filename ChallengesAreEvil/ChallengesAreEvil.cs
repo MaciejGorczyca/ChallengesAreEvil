@@ -34,7 +34,7 @@ namespace ChallengesAreEvil
         {
             if (!lc.IsConnected)
             {
-                editMessageLabel("Not connected to League Client! You need to log in first and wait few seconds.");
+                editMessageLabel("Not connected to League Client! You need to log in first and wait few seconds. If you run LoL as admin, run this app as admin too!");
                 return false;
             }
             return true;
@@ -76,9 +76,11 @@ namespace ChallengesAreEvil
 Thank you for considering donation!
 The software is completely free to use for everyone.
 If you wish to thank me and help me back, feel free to send me even the smallest possible amount.
+
+If you can't change the amount on page then edit the link - change the 5EUR at the end to your desired amount.
                             
 I will greatly appreciate your goodwill!");
-            System.Diagnostics.Process.Start("https://www.paypal.me/CoUsTme/1EUR");
+            System.Diagnostics.Process.Start("https://www.paypal.me/CoUsTme/5EUR");
         }
     }
 }
