@@ -8,7 +8,11 @@ Remove your challenge tokens from profile banner with 1-click-button solution.
 
 ## Download
 
-[Grab latest release here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest)
+Pick only one. If in doubt - pick the first option.
+
+[Grab latest release executable file here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest)
+
+[Grab latest Powershell script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removeTokens.ps1)
 
 ## Description
 
@@ -36,6 +40,9 @@ Some anti-viruses detect the app as some generic virus. It is obviously false po
 ## Author
  - Maciej Gorczyca
  - maciej.dariusz.gorczyca@gmail.com
+ 
+  
+Thanks to [@kovimilu](https://github.com/kovimilu) for Powershell script.
  
 ## Donation
 
