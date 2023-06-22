@@ -33,6 +33,7 @@ add-type @"
 $bodyContent = ConvertTo-Json -Compress @{ "challengeIds" = @() }
 
 # Send the request
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $response = Invoke-RestMethod -Uri $URL -Headers $headers -Method Post -Body $bodyContent -ContentType "application/json"
 
 # Output the response
