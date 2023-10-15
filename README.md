@@ -10,9 +10,11 @@ Remove your challenge tokens from profile banner with 1-click-button solution.
 
 Pick only one. If in doubt - pick the first option.
 
-[Grab latest release executable file here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest)
+Windows desktop app: [Grab latest release executable file here.](https://github.com/MaciejGorczyca/ChallengesAreEvil/releases/latest) (easiest way)
 
-[Grab latest Powershell script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removeTokens.ps1)
+Windows PowerShell script: [Grab latest Powershell script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removeTokens.ps1)
+
+Linux Bash script: [Grab latest Bash script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removetokens.sh)
 
 ## Description
 
@@ -31,7 +33,7 @@ ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. Chal
 
 ## Will I get banned? Is it legit?
 
-The answer is most likely (99.99%) you won't get banned. The app uses built-in functionality of the client. It does not modify anything in the client. It interacts with the client telling it to do stuff and the client does everything itself. As of 2022-10-18 there were no reports of anyone getting banned.
+The answer is most likely (99.99%) you won't get banned. The app uses built-in functionality of the client. It does not modify anything in the client. It interacts with the client telling it to do stuff and the client does everything itself. As of 2023-10-15 there were no reports of anyone getting banned.
 
 ## App flagged as virus!
 
@@ -41,8 +43,9 @@ Some anti-viruses detect the app as some generic virus. It is obviously false po
  - Maciej Gorczyca
  - maciej.dariusz.gorczyca@gmail.com
  
+Thanks to [@kovimilu](https://github.com/kovimilu) for PowerShell script.
   
-Thanks to [@kovimilu](https://github.com/kovimilu) for Powershell script.
+Thanks to [@sinbad86](https://github.com/sinbad86) for Bash script.
  
 ## Donation
 
