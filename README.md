@@ -16,6 +16,9 @@ Windows PowerShell script: [Grab latest Powershell script version here.](https:/
 
 Linux Bash script: [Grab latest Bash script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removetokens.sh)
 
+MacOS Bash script: [Grab latest Bash script version here.](https://raw.githubusercontent.com/MaciejGorczyca/ChallengesAreEvil/master/removetokensMacOS.sh)
+
+
 ## Description
 
 ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil.
@@ -33,7 +36,7 @@ ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. ChallengesAreEvil. Chal
 
 ## Will I get banned? Is it legit?
 
-The answer is most likely (99.99%) you won't get banned. The app uses built-in functionality of the client. It does not modify anything in the client. It interacts with the client telling it to do stuff and the client does everything itself. As of 2023-10-15 there were no reports of anyone getting banned.
+The answer is most likely (99.99%) you won't get banned. The app uses built-in functionality of the client. It does not modify anything in the client. It interacts with the client telling it to do stuff and the client does everything itself. As of 2024-04-22 there were no reports of anyone getting banned.
 
 ## App flagged as virus!
 
@@ -45,7 +48,9 @@ Some anti-viruses detect the app as some generic virus. It is obviously false po
  
 Thanks to [@kovimilu](https://github.com/kovimilu) for PowerShell script.
   
-Thanks to [@sinbad86](https://github.com/sinbad86) for Bash script.
+Thanks to [@sinbad86](https://github.com/sinbad86) for Linux Bash script.
+  
+Thanks to [@jk7g14](https://github.com/jk7g14) for MacOS Bash script.
  
 ## Donation
 
